@@ -34,7 +34,12 @@ https://www.kaggle.com/datasets/mexwell/us-school-scores/data
 - Perform the calculations and visualization using Excel or Tableau or a combination of both
 -  Document the project in a final report
 -  Recommended: Publish your unique, well-narrated project on Tableau Public
-  
+
+  ## Tableau Public
+
+The detailed work for this project is available on Tableau Public. You can access it and view it [here](https://public.tableau.com/views/Elsaadi_Final_project/Goal6?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+
+
  ## Section 1. Introduction
  This project will explore the significance that specific
  ## Section 2. Data Description
