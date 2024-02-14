@@ -10,7 +10,7 @@ This project will explore the significance that specific demographic, geographic
 
 ## Overview
 
-This project focuses on Education. Education is often the most important pillar of success in the world today. Success in the classroom can be a good indicator of future success in employment, as well as be the beginning of a life of financial fulfillment.
+For this project, I put together a storyboard that analyzes High School student performances based on several factors. Through this analysis I looked at GPAs, Standardized Test Scores, Courses, Family Income, and States of the students and visually presented the trends in the data and mapped out the distribution of academic performances across the entire United States. From this analysis, we can determine the demographic, geographic, and academic factors that are correlated with Student Performances in academics.
 
 ## Data Sources
 The dataset that is used for this project was found through Kaggle, a
@@ -43,17 +43,17 @@ The detailed work for this project is available on Tableau Public. You can acces
  ## Section 1. Introduction
  This project will explore the significance that specific
  ## Section 2. Data Description
- This data source is a source that contains information about ############. This source is found on Kaggle and it is called ”US School Scores”.
- The Excel file was downloaded from this site:
+ This data source is a source that contains information about High School Students and their academic, geographic, and demographic information. This 
+ includes GPA, Standardized Test Scores, State, and Family Income. This source was found on Kaggle and it is called “US School Scores”. The Excel file was 
+ downloaded from this site:
  https://www.kaggle.com/datasets/mexwell/us-school-scores/data
- 99 columns and 578 rows.
+ It has 99 columns and 578 rows.
  ## Section 3. Data Cleaning Strategies
-	No cleaning was needed.
+	No cleaning was needed for this dataset.
  ## Section 4. Clean Dataset
-	No cleaning was needed.
- ## Section 5. Visualization Tools
- I chose Tableau because I felt it could help me best tell the story of my findings. 
- Tableau allowed me to create insightful visualizations to help demonstrate the trends of the company. 
+![My Screenshot](Screenshots/DS.png)
+![My Screenshot](Screenshots/DS1.png)
+I chose Tableau for each goal, because it was the visualization tool that I worked with the most and was the one I was the most comfortable with. It also had all the applications that I needed to complete my data visualization.
  ## Section 6. Visualizations and Stories
  ![My Screenshot](Screenshots/G1.png)
  ![My Screenshot](Screenshots/G2.png)
@@ -65,3 +65,4 @@ The detailed work for this project is available on Tableau Public. You can acces
  ![My Screenshot](Screenshots/S1.png)
      
  ## Section 7. Conclusions 
+ In conclusion, by analyzing the variables from the dataset we can come up with a stronger understanding of the factors that can predict a student’s academic performance. The main variables focused on in this data set and in this project are GPA, Courses, Family Income, Standardized Test Scores, and State for students. Seeing all these graphs and charts next to each other helps to show the relationship that each state has with academics. 
