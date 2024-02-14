@@ -53,6 +53,7 @@ The detailed work for this project is available on Tableau Public. You can acces
  ## Section 4. Clean Dataset
 ![My Screenshot](Screenshots/DS.png)
 ![My Screenshot](Screenshots/DS1.png)
+## Section 5. Visualization Tools
 I chose Tableau for each goal, because it was the visualization tool that I worked with the most and was the one I was the most comfortable with. It also had all the applications that I needed to complete my data visualization.
  ## Section 6. Visualizations and Stories
  ![My Screenshot](Screenshots/G1.png)
