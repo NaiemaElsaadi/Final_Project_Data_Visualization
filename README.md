@@ -3,9 +3,7 @@
 This project will explore the significance that specific demographic, geographic, psychographic, and financial factors have on a student’s academic performance by looking at data sources that show the academic performance of several students in relation to the mentioned factors.
 
 <br>Author: Naiema Elsaadi
-
 <br>Date: February 13, 2024
-
 <br>Dr. Denise Case
 
 ## Overview
