@@ -14,10 +14,7 @@ For this project, I put together a storyboard that analyzes High School student 
 
 ## Data Sources
 The dataset that is used for this project was found through Kaggle, a
-popular platform for datasets. This dataset will provide information on Student
-Performance in schools, GPAs, ACTs, Drop out rates, as well as information
-on financial situation of students, geographic, demographic, and psychographic
-information on students and their families. 
+popular platform for datasets. This dataset provided information on student GPAs, Standardidzed Test Scores, Family Income, State, and other Demographic and Academic information.
 <br><b> Source Data for csv file:</b>
 https://www.kaggle.com/datasets/mexwell/us-school-scores/data
 
@@ -41,13 +38,13 @@ The detailed work for this project is available on Tableau Public. You can acces
 
 
  ## Section 1. Introduction
- This project will explore the significance that specific
+ This project will explore the significance that specific factors in education such as Geographics, Family Income, and Courses affect High School student perforances in their Test Scores and GPAs
  ## Section 2. Data Description
  This data source is a source that contains information about High School Students and their academic, geographic, and demographic information. This 
  includes GPA, Standardized Test Scores, State, and Family Income. This source was found on Kaggle and it is called “US School Scores”. The Excel file was 
  downloaded from this site:
  https://www.kaggle.com/datasets/mexwell/us-school-scores/data
- It has 99 columns and 578 rows.
+ <br>It has 99 columns and 578 rows.
  ## Section 3. Data Cleaning Strategies
 	No cleaning was needed for this dataset.
  ## Section 4. Clean Dataset
