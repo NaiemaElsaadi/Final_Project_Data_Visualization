@@ -40,7 +40,7 @@ The detailed work for this project is available on Tableau Public. You can acces
  ## Section 2. Data Description
  This data source is a source that contains information about High School Students and their academic, geographic, and demographic information. This 
  includes GPA, Standardized Test Scores, State, and Family Income. This source was found on Kaggle and it is called “US School Scores”. The Excel file was 
- downloaded from this site:
+ downloaded from this site:<br>
  https://www.kaggle.com/datasets/mexwell/us-school-scores/data
  <br>It has 99 columns and 578 rows.
  ## Section 3. Data Cleaning Strategies
